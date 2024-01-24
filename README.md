@@ -4,7 +4,7 @@
 
 ### The purpose behind this project is to learn and practice the core concepts behind:
 > - Building a REST API
-> - .NET Core
+> - ASP.NET Core
 > - Model View Controller (MVC) Architectural Pattern
 > - C#
 ### During the project, I used...
