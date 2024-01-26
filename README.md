@@ -26,3 +26,11 @@
 ## API Website
 ![Screenshot 2024-01-26 at 12 13 06 AM](https://github.com/ffarooqui2/Commands-REST-API/assets/96920961/1fac3265-4445-4601-a6ee-1361930cfaf2)
 
+## HTTP POST 201 Status Code
+![image](https://github.com/ffarooqui2/Commands-REST-API/assets/96920961/7171b092-994f-4e0f-88b6-1b896063d58c)
+
+## HTTP PATCH 204 Status Code
+![image](https://github.com/ffarooqui2/Commands-REST-API/assets/96920961/dc98ae0e-80b5-4070-812b-8efc63fc6691)
+
+
+
