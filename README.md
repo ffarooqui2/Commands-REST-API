@@ -14,7 +14,7 @@
 > - EntityFrameworkCore (DB Context & Migrations)
 > - Data Transfer Objects (DTOs) and Automapper
 > - CRUD (Create Read Update Delete) -> HTTP Requests (GET, POST, PUT, PATCH, DELETE) and status codes
-> - Testing API Endpoitns (SwaggerUI)
+> - Testing API Endpoitns (SwaggerUI, Postman)
 > - Docker (Containers and Images)
 
 ## Application Architecture
@@ -22,3 +22,7 @@
 
 ## Data Transfer Objects
 ![image](https://github.com/ffarooqui2/Commands-REST-API/assets/96920961/ea8dfa62-5be1-44d8-b870-678c07e702be)
+
+## API Website
+![Screenshot 2024-01-26 at 12 13 06 AM](https://github.com/ffarooqui2/Commands-REST-API/assets/96920961/1fac3265-4445-4601-a6ee-1361930cfaf2)
+
