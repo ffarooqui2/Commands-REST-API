@@ -11,7 +11,7 @@
 > - Dependency injection
 > - Repository design patterns
 > - PostgreSQL and pgAdmin4
-> - EntityFrameworkCore (DB Context & Migrations)
+> - EntityFrameworkCore ORM DB Context & Migrations)
 > - Data Transfer Objects (DTOs) and Automapper
 > - CRUD (Create Read Update Delete) -> HTTP Requests (GET, POST, PUT, PATCH, DELETE) and status codes
 > - Testing API Endpoitns (SwaggerUI, Postman)
